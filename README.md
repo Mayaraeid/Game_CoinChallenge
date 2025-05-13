@@ -31,7 +31,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/platformer_game.git
+git clone https://github.com/Mayaraeid/platformer_game.git
 
 # Entre na pasta do projeto
 cd platformer_game
